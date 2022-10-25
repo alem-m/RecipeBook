@@ -52,8 +52,8 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 
 **Tab Navigation** (Tab to Screen)
 
-* Home (Where lifestyle options will be displayed)
-* Meal Type List
+* Home (Where meal type options will be displayed)
+* Recipes
 
 **Flow Navigation** (Screen to Screen)
 
@@ -66,4 +66,4 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 
 ## Wireframes
 
-Working on finalizing this one!
+<img src="https://user-images.githubusercontent.com/91217813/197666112-5c993f49-0615-4db7-9c13-79f382f0d5fd.gif" width=500>
