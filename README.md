@@ -28,7 +28,7 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 
 **Required Features**
 
-- [x] User can choose recipes
+- [x] User can search recipes
 - [x] User can choose their preferred lifestyle
 - [x] User can choose a diet, based on the health labels (Dairy-Free, Egg-Free, Immuno-Supportive, and more)
 - [x] User can choose meal types (breakfast, brunch, lunch/dinner, snack, teatime)
