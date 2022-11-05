@@ -32,8 +32,8 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 - [x] User can choose their preferred lifestyle
 - [x] User can choose a diet, based on the health labels (Dairy-Free, Egg-Free, Immuno-Supportive, and more)
 - [x] User can choose meal types (breakfast, brunch, lunch/dinner, snack, teatime)
-- [x] User can comment and leave reviews
-- [x] User can login
+- [x] User can leave reviews (like/love button)
+- [x] User can start browsing -- Gets directed to Home Page
 
 ### 2. Screen Archetypes
 
@@ -57,7 +57,7 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 
 **Flow Navigation** (Screen to Screen)
 
-- Login Screen (maybe)
+- Get Started Screen 
   - => Home
 - Stream Screen
   - => Meal Type List
