@@ -1,4 +1,4 @@
-# Milestone 1 & 2 - RecipeBook
+# Milestone 1, 2 & 3 - RecipeBook
 
 ## Table of Contents
 
@@ -71,5 +71,7 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 ## Build Sprint 1
 <img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif' width=500>
 
+## Build Sprint 2
+<img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif' width=500>
 
 
