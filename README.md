@@ -72,6 +72,11 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 <img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif' width=500>
 
 ## Build Sprint 2
+# App Functionality & Features Video & GIF
 <img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif' width=500>
+
+> YouTube Link <br>
+'https://youtu.be/NBdoqgbDNPA'
+ 
 
 
