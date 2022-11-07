@@ -66,17 +66,23 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 
 ## Wireframes
 
-<img src="https://user-images.githubusercontent.com/91217813/197666112-5c993f49-0615-4db7-9c13-79f382f0d5fd.gif" width=500>
+<img src="https://user-images.githubusercontent.com/91217813/197666112-5c993f49-0615-4db7-9c13-79f382f0d5fd.gif">
 
 ## Build Sprint 1
-<img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif' width=500>
+<img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif'>
 
 ## Build Sprint 2
 # App Functionality & Features Video & GIF
-<img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif' width=500>
+> GIF #1 <br>
+<img src='https://user-images.githubusercontent.com/91217813/199120040-2696bdbb-97c0-4a9c-9962-08e9800319b9.gif'>
 
-> YouTube Link <br>
-'https://youtu.be/NBdoqgbDNPA'
- 
+> GIF #2 <br>
+<img src='https://user-images.githubusercontent.com/91217813/200403647-f9b9f032-05b4-431b-823d-aee1b3cd6c38.gif' width=350> 
+
+> YouTube Link & GIF <br>
+'https://youtu.be/NBdoqgbDNPA' <br>
+
+<img src='https://user-images.githubusercontent.com/91217813/200407319-eda4bee5-ea68-4fb9-a53b-e4f367e72614.gif'>
+
 
 
