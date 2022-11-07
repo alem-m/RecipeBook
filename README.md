@@ -84,5 +84,8 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 
 <img src='https://user-images.githubusercontent.com/91217813/200407319-eda4bee5-ea68-4fb9-a53b-e4f367e72614.gif'>
 
+# Note
+This group project was made individually, so the sole contribuitor to this repository is [alem-m]
+
 
 
