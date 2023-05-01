@@ -14,7 +14,6 @@ The RecipeBook app allows users to choose their recipes and/or meals, and tailor
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Food
 - **Mobile:** Website is view only, uses recipes with real-time review, and comment section
 - **Story:** Allows users to choose recipes, create a weekly meal plan, and give a list-amount of groceries needed
